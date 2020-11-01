@@ -38,11 +38,6 @@ $ python main.py
 
 
 
-### Todos
-
- - Write MORE Tests
- - Add Night Mode
-
 License
 ----
 
