@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This porject We implement two common and simple problem  using python to demostrate the implementaion.
+This porject we implement two common and simple problem fuzzy inference using python.
 
   - DC motor control using Mandani method
   - Resturent Tips Calculation using Mandani method
