@@ -21,7 +21,7 @@ This porject We implement two common and simple problem  using python to demostr
   - Opencv
   - scikit-fuzzy
 
-![Demo]/images/demo.gif)
+![Demo](images/demo.gif)
 ### Installation
 Install the dependencies 
 
